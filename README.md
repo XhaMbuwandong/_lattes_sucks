@@ -1,6 +1,11 @@
 # _lattes_sucks
 Acessando lattes automaticamente.
 
+
+# Testar esse crawler:
+https://github.com/lucachaves/lattes-crawler
+
+
 # Pedido de acesso à informação
 
 https://esic.cgu.gov.br/sistema/site/index.html
