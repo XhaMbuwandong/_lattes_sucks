@@ -1,6 +1,10 @@
 # _lattes_sucks
 Acessando lattes automaticamente.
 
+# Pedido de acesso à informação
+
+https://esic.cgu.gov.br/sistema/site/index.html
+
 
 # Encontrado script para instalação do Opencv no ubuntu 16.04 e 16.10.
 O script já está disponível aqui no repositório.
